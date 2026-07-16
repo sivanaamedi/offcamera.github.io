@@ -75,19 +75,19 @@ Follow the project on TikTok:
 
 ---
 
-#  The Camera Is Always Watching
+## The Impact of Social Media on Mental Health
 
-```
-Reality → Camera → Editing → Social Media → Audience → Identity
-```
+Research shows that the way we consume social media can influence how we see ourselves.
 
-Every post tells a story.
+A meta-analysis examining adolescents found that higher daily social media use was associated with an increased risk of depression. The researchers found that the risk of depressive symptoms increased by approximately 13% for each additional hour spent on social media per day. Compared with lower users, adolescents with higher social media use showed around a 60% higher risk of depression. 
 
-Every video creates a version of ourselves.
+This does not mean that social media directly causes depression. However, constant exposure to carefully edited lifestyles, unrealistic beauty standards and social comparison can influence how people judge themselves and their own lives.
 
-Every camera changes the way we behave.
+In a world where everyone is performing for the camera, the question becomes:
+**Are we watching other people's reality, or are we watching a carefully created version of it?**---
 
----
+Li, J. B., et al. (2022). Time Spent on Social Media and Risk of Depression in Adolescents: A Dose–Response Meta-Analysis. International Journal of Environmental Research and Public Health.
+
 
 #  Future Content
 
