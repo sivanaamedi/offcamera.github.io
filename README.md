@@ -59,19 +59,18 @@ Watch the full film:
 
 ---
 
-#  Featured TikTok
-
+#  Featured Youtube Short
 <p align="center">
 
 <a href="YOUR_TIKTOK_LINK">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/TikTok_icon.svg" width="100">
+<img src="images.jpeg" width="300">
 </a>
 
 </p>
 
 Follow the project on TikTok:
 
-[Watch TikTok Content →]([)](https://youtube.com/shorts/iHi4xmz68y4?feature=share)
+[Watch Youtube Short Content →]([)](https://youtube.com/shorts/iHi4xmz68y4?feature=share)
 
 ---
 
@@ -106,9 +105,6 @@ Coming soon:
 Created by **Sivana Amedi**
 
 Social Media:
-
-- TikTok: [[]](https://www.tiktok.com/@sivanaamedi?is_from_webapp=1&sender_device=pc)
-- Instagram: [[]](https://www.instagram.com/sivanaamedi?igsh=OW9yNG9jN3cxYWJ2&utm_source=qr)
 - YouTube: [[]](https://www.youtube.com/channel/UCSIQk-X2Lxa3hY34m9ynlxQ)
 
 ---
