@@ -1,5 +1,5 @@
 # offcamera.github.io
-# 🎥 Living Through The Lens
+#  Living Through The Lens
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1485846234645-a62644f84728?w=900" width="800">
@@ -12,41 +12,34 @@
 
 ---
 
-## 🌎 About The Project
+##  About The Project
 
 **Living Through The Lens** is a creative project about the modern generation that exists through cameras, social media and digital storytelling.
 
 We explore what it means to constantly perform:
-- 🎭 Creating a version of yourself for the world
-- 📱 Living through social media platforms
-- 🎬 Turning everyday life into content
-- 👁️ Searching for attention, connection and identity
+-  Creating a version of yourself for the world
+-  Living through social media platforms
+-  Turning everyday life into content
+-  Searching for attention, connection and identity
 
-Is the camera showing who we really are — or who we want people to believe we are?
+Is the camera showing who we really are or who we want people to believe we are?
 
 ---
 
-# 📝 Blog
+# Blog
 
 Follow my thoughts, experiences and stories about performing for the camera.
 
 ### Latest Posts
 
-📌 **The Pressure To Always Be Seen**  
+ **The Pressure To Always Be Seen**  
 A reflection about living in a world where attention has become a currency.
 
 [Read Blog Post →](YOUR_BLOG_LINK)
 
 ---
 
-📌 **Who Are We Without The Camera?**  
-Exploring identity in the age of social media.
-
-[Read Blog Post →](YOUR_BLOG_LINK)
-
----
-
-# 🎬 Short Film
+#  Short Film
 
 <p align="center">
 
@@ -56,17 +49,17 @@ Exploring identity in the age of social media.
 
 </p>
 
-## "Behind The Screen"
+## "Who are We Without the Camera?"
 
 A short film about a person who becomes addicted to creating a perfect online identity.
 
 Watch the full film:
 
-▶️ [Watch Short Film](YOUR_FILM_LINK)
+▶️ [Watch Short Film]([)](https://youtu.be/olnWakQ3tzY)
 
 ---
 
-# 📱 Featured TikTok
+#  Featured TikTok
 
 <p align="center">
 
@@ -82,7 +75,7 @@ Follow the project on TikTok:
 
 ---
 
-# 🎭 The Camera Is Always Watching
+#  The Camera Is Always Watching
 
 ```
 Reality → Camera → Editing → Social Media → Audience → Identity
@@ -96,7 +89,7 @@ Every camera changes the way we behave.
 
 ---
 
-# 🚀 Future Content
+#  Future Content
 
 Coming soon:
 
@@ -110,13 +103,13 @@ Coming soon:
 
 # 👤 Creator
 
-Created by **YOUR NAME**
+Created by **Sivana Amedi**
 
 Social Media:
 
-- TikTok: [YOUR LINK]
-- Instagram: [YOUR LINK]
-- YouTube: [YOUR LINK]
+- TikTok: [[]](https://www.tiktok.com/@sivanaamedi?is_from_webapp=1&sender_device=pc)
+- Instagram: [[]](https://www.instagram.com/sivanaamedi?igsh=OW9yNG9jN3cxYWJ2&utm_source=qr)
+- YouTube: [[]](https://www.youtube.com/channel/UCSIQk-X2Lxa3hY34m9ynlxQ)
 
 ---
 
