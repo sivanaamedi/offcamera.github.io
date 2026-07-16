@@ -44,8 +44,7 @@ A reflection about living in a world where attention has become a currency.
 <p align="center">
 
 <a href="YOUR_FILM_LINK">
-<img src= "https:// 
-width="700">
+<img src= "IMG_8174.jpg" width="700">
 </a>
 
 </p>
