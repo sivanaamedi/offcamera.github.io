@@ -35,7 +35,7 @@ Follow my thoughts, experiences and stories about performing for the camera.
  **The Pressure To Always Be Seen**  
 A reflection about living in a world where attention has become a currency.
 
-[Read Blog Post →](YOUR_BLOG_LINK)
+[Read Blog Post →](blog/pressure-to-always-be-seen.md)
 
 ---
 
