@@ -93,15 +93,15 @@ Every camera changes the way we behave.
 
 Coming soon:
 
-- 🎥 More short films
-- 📝 Personal blog entries
-- 📱 Social media experiments
-- 🎙️ Interviews about digital identity
-- 🎨 Behind-the-scenes content
+-  More short films
+-  Personal blog entries
+-  Social media experiments
+-  Interviews about digital identity
+-  Behind-the-scenes content
 
 ---
 
-# 👤 Creator
+#  Creator
 
 Created by **Sivana Amedi**
 
