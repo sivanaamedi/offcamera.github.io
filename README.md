@@ -63,7 +63,7 @@ Watch the full film:
 <p align="center">
 
 <a href="YOUR_TIKTOK_LINK">
-<img src="images.jpeg" width="300">
+<img src="images.jpeg" width="400">
 </a>
 
 </p>
